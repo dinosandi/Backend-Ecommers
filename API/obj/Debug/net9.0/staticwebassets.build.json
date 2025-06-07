@@ -1,0 +1,1876 @@
+{
+  "Version": 1,
+  "Hash": "/7Xs+CbI9aPscNLU+hEhZaWhn/oxKNARGlOnNY27R+Q=",
+  "Source": "API",
+  "BasePath": "_content/API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "API\\wwwroot",
+      "Source": "API",
+      "ContentRoot": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\",
+      "BasePath": "_content/API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\images\\bundles\\35868409-7e7b-4ad5-9d35-9bccdf339408.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/bundles/35868409-7e7b-4ad5-9d35-9bccdf339408#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l35779gi0g",
+      "Integrity": "kcDp9xbE5gdCoQ7ufutF7R8CZzY2TdZF9eQqv+Zz1lU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bundles\\35868409-7e7b-4ad5-9d35-9bccdf339408.png"
+    },
+    {
+      "Identity": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\images\\bundles\\3e26d8b9-2305-4287-909a-7c674b394c3d.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/bundles/3e26d8b9-2305-4287-909a-7c674b394c3d#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l35779gi0g",
+      "Integrity": "kcDp9xbE5gdCoQ7ufutF7R8CZzY2TdZF9eQqv+Zz1lU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bundles\\3e26d8b9-2305-4287-909a-7c674b394c3d.png"
+    },
+    {
+      "Identity": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\images\\bundles\\5075f45a-9c26-450c-83f3-de762e621e7f.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/bundles/5075f45a-9c26-450c-83f3-de762e621e7f#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vln2ymcrno",
+      "Integrity": "/SHgYgIJjCja4a3LUTVgLdODK4C/4S8DUfe8RzfHLZY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bundles\\5075f45a-9c26-450c-83f3-de762e621e7f.png"
+    },
+    {
+      "Identity": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\images\\bundles\\55cbe0c2-4e23-4234-8d4e-32ec20aacb20.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/bundles/55cbe0c2-4e23-4234-8d4e-32ec20aacb20#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vln2ymcrno",
+      "Integrity": "/SHgYgIJjCja4a3LUTVgLdODK4C/4S8DUfe8RzfHLZY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bundles\\55cbe0c2-4e23-4234-8d4e-32ec20aacb20.png"
+    },
+    {
+      "Identity": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\images\\bundles\\596419e8-a018-4a27-aa67-13440dec5f25.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/bundles/596419e8-a018-4a27-aa67-13440dec5f25#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l35779gi0g",
+      "Integrity": "kcDp9xbE5gdCoQ7ufutF7R8CZzY2TdZF9eQqv+Zz1lU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bundles\\596419e8-a018-4a27-aa67-13440dec5f25.png"
+    },
+    {
+      "Identity": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\images\\bundles\\6b01f5a6-f6fc-4687-b9ab-ea13bce73b88.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/bundles/6b01f5a6-f6fc-4687-b9ab-ea13bce73b88#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cgk9zycfb6",
+      "Integrity": "zBpP/vjEC5dGbfEyZPdXvfj1VBjnvcYOUGW0D+D7VnE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bundles\\6b01f5a6-f6fc-4687-b9ab-ea13bce73b88.png"
+    },
+    {
+      "Identity": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\images\\bundles\\791f645e-a8eb-4aad-959c-8b2ee24e5770.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/bundles/791f645e-a8eb-4aad-959c-8b2ee24e5770#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l35779gi0g",
+      "Integrity": "kcDp9xbE5gdCoQ7ufutF7R8CZzY2TdZF9eQqv+Zz1lU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bundles\\791f645e-a8eb-4aad-959c-8b2ee24e5770.png"
+    },
+    {
+      "Identity": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\images\\bundles\\84af052a-6796-4bfe-a817-cd6ae52e3fb2.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/bundles/84af052a-6796-4bfe-a817-cd6ae52e3fb2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vln2ymcrno",
+      "Integrity": "/SHgYgIJjCja4a3LUTVgLdODK4C/4S8DUfe8RzfHLZY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bundles\\84af052a-6796-4bfe-a817-cd6ae52e3fb2.png"
+    },
+    {
+      "Identity": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\images\\bundles\\9c4cc55b-6881-42ed-a3d5-a9678c16893e.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/bundles/9c4cc55b-6881-42ed-a3d5-a9678c16893e#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cgk9zycfb6",
+      "Integrity": "zBpP/vjEC5dGbfEyZPdXvfj1VBjnvcYOUGW0D+D7VnE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bundles\\9c4cc55b-6881-42ed-a3d5-a9678c16893e.png"
+    },
+    {
+      "Identity": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\images\\bundles\\b2106712-979f-46ce-9c4e-7260cabeab17.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/bundles/b2106712-979f-46ce-9c4e-7260cabeab17#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l35779gi0g",
+      "Integrity": "kcDp9xbE5gdCoQ7ufutF7R8CZzY2TdZF9eQqv+Zz1lU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bundles\\b2106712-979f-46ce-9c4e-7260cabeab17.png"
+    },
+    {
+      "Identity": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\images\\bundles\\d711f711-e5fc-422d-987d-bf4b45133729.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/bundles/d711f711-e5fc-422d-987d-bf4b45133729#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cgk9zycfb6",
+      "Integrity": "zBpP/vjEC5dGbfEyZPdXvfj1VBjnvcYOUGW0D+D7VnE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bundles\\d711f711-e5fc-422d-987d-bf4b45133729.png"
+    },
+    {
+      "Identity": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\images\\bundles\\e7e67ae8-f3cc-48c8-8f00-35d03d3a2899.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/bundles/e7e67ae8-f3cc-48c8-8f00-35d03d3a2899#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l35779gi0g",
+      "Integrity": "kcDp9xbE5gdCoQ7ufutF7R8CZzY2TdZF9eQqv+Zz1lU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bundles\\e7e67ae8-f3cc-48c8-8f00-35d03d3a2899.png"
+    },
+    {
+      "Identity": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\uploads\\46867a9e-583d-42ea-9eec-60c9102a2986.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "uploads/46867a9e-583d-42ea-9eec-60c9102a2986#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vr7kp7ormj",
+      "Integrity": "pSZqFJBvpX2kFVyZSdJJ1IgRvcACoYymzsPULot52to=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\46867a9e-583d-42ea-9eec-60c9102a2986.jpg"
+    },
+    {
+      "Identity": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\uploads\\70fd167a-8fd3-491b-9202-41061163ec9f.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "uploads/70fd167a-8fd3-491b-9202-41061163ec9f#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "83mqgzw2ck",
+      "Integrity": "rBHkjCN6p8j9rJNo6ogLjLpt+cgxn1NetMHEorBlk2o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\70fd167a-8fd3-491b-9202-41061163ec9f.jpg"
+    },
+    {
+      "Identity": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\uploads\\95e72f69-932e-4a69-83f7-feca1e474480.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "uploads/95e72f69-932e-4a69-83f7-feca1e474480#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kgyzclbkp4",
+      "Integrity": "NEn4SlovDdRXzy6GmhXYFHhWh5W76fJAASVYFfBw404=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\95e72f69-932e-4a69-83f7-feca1e474480.png"
+    },
+    {
+      "Identity": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\uploads\\e104cb38-d741-4813-9857-37234259b555.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "uploads/e104cb38-d741-4813-9857-37234259b555#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vr7kp7ormj",
+      "Integrity": "pSZqFJBvpX2kFVyZSdJJ1IgRvcACoYymzsPULot52to=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\e104cb38-d741-4813-9857-37234259b555.jpg"
+    },
+    {
+      "Identity": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\uploads\\f87b292b-39b5-4872-a960-d1a826e4ad1a.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "uploads/f87b292b-39b5-4872-a960-d1a826e4ad1a#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xpys885fle",
+      "Integrity": "Oym7QTC+m5qq5JrEyPpsn3FkruPgJQCBNlRwFNho1MQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\f87b292b-39b5-4872-a960-d1a826e4ad1a.png"
+    },
+    {
+      "Identity": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\uploads\\fed3df55-b301-4dac-a07a-77536b7888c9.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "uploads/fed3df55-b301-4dac-a07a-77536b7888c9#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bak26teq5r",
+      "Integrity": "M43GGxXWIXhVDnqLU1WVAv6cnbRyfz7BSNZajzfqTgg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\fed3df55-b301-4dac-a07a-77536b7888c9.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/bundles/35868409-7e7b-4ad5-9d35-9bccdf339408.l35779gi0g.png",
+      "AssetFile": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\images\\bundles\\35868409-7e7b-4ad5-9d35-9bccdf339408.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16942"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kcDp9xbE5gdCoQ7ufutF7R8CZzY2TdZF9eQqv+Zz1lU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 02:39:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l35779gi0g"
+        },
+        {
+          "Name": "label",
+          "Value": "images/bundles/35868409-7e7b-4ad5-9d35-9bccdf339408.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kcDp9xbE5gdCoQ7ufutF7R8CZzY2TdZF9eQqv+Zz1lU="
+        }
+      ]
+    },
+    {
+      "Route": "images/bundles/35868409-7e7b-4ad5-9d35-9bccdf339408.png",
+      "AssetFile": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\images\\bundles\\35868409-7e7b-4ad5-9d35-9bccdf339408.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16942"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kcDp9xbE5gdCoQ7ufutF7R8CZzY2TdZF9eQqv+Zz1lU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 02:39:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kcDp9xbE5gdCoQ7ufutF7R8CZzY2TdZF9eQqv+Zz1lU="
+        }
+      ]
+    },
+    {
+      "Route": "images/bundles/3e26d8b9-2305-4287-909a-7c674b394c3d.l35779gi0g.png",
+      "AssetFile": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\images\\bundles\\3e26d8b9-2305-4287-909a-7c674b394c3d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16942"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kcDp9xbE5gdCoQ7ufutF7R8CZzY2TdZF9eQqv+Zz1lU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 02:44:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l35779gi0g"
+        },
+        {
+          "Name": "label",
+          "Value": "images/bundles/3e26d8b9-2305-4287-909a-7c674b394c3d.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kcDp9xbE5gdCoQ7ufutF7R8CZzY2TdZF9eQqv+Zz1lU="
+        }
+      ]
+    },
+    {
+      "Route": "images/bundles/3e26d8b9-2305-4287-909a-7c674b394c3d.png",
+      "AssetFile": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\images\\bundles\\3e26d8b9-2305-4287-909a-7c674b394c3d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16942"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kcDp9xbE5gdCoQ7ufutF7R8CZzY2TdZF9eQqv+Zz1lU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 02:44:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kcDp9xbE5gdCoQ7ufutF7R8CZzY2TdZF9eQqv+Zz1lU="
+        }
+      ]
+    },
+    {
+      "Route": "images/bundles/5075f45a-9c26-450c-83f3-de762e621e7f.png",
+      "AssetFile": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\images\\bundles\\5075f45a-9c26-450c-83f3-de762e621e7f.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "224114"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/SHgYgIJjCja4a3LUTVgLdODK4C/4S8DUfe8RzfHLZY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 01:18:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/SHgYgIJjCja4a3LUTVgLdODK4C/4S8DUfe8RzfHLZY="
+        }
+      ]
+    },
+    {
+      "Route": "images/bundles/5075f45a-9c26-450c-83f3-de762e621e7f.vln2ymcrno.png",
+      "AssetFile": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\images\\bundles\\5075f45a-9c26-450c-83f3-de762e621e7f.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "224114"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/SHgYgIJjCja4a3LUTVgLdODK4C/4S8DUfe8RzfHLZY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 01:18:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vln2ymcrno"
+        },
+        {
+          "Name": "label",
+          "Value": "images/bundles/5075f45a-9c26-450c-83f3-de762e621e7f.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/SHgYgIJjCja4a3LUTVgLdODK4C/4S8DUfe8RzfHLZY="
+        }
+      ]
+    },
+    {
+      "Route": "images/bundles/55cbe0c2-4e23-4234-8d4e-32ec20aacb20.png",
+      "AssetFile": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\images\\bundles\\55cbe0c2-4e23-4234-8d4e-32ec20aacb20.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "224114"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/SHgYgIJjCja4a3LUTVgLdODK4C/4S8DUfe8RzfHLZY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 01:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/SHgYgIJjCja4a3LUTVgLdODK4C/4S8DUfe8RzfHLZY="
+        }
+      ]
+    },
+    {
+      "Route": "images/bundles/55cbe0c2-4e23-4234-8d4e-32ec20aacb20.vln2ymcrno.png",
+      "AssetFile": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\images\\bundles\\55cbe0c2-4e23-4234-8d4e-32ec20aacb20.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "224114"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/SHgYgIJjCja4a3LUTVgLdODK4C/4S8DUfe8RzfHLZY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 01:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vln2ymcrno"
+        },
+        {
+          "Name": "label",
+          "Value": "images/bundles/55cbe0c2-4e23-4234-8d4e-32ec20aacb20.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/SHgYgIJjCja4a3LUTVgLdODK4C/4S8DUfe8RzfHLZY="
+        }
+      ]
+    },
+    {
+      "Route": "images/bundles/596419e8-a018-4a27-aa67-13440dec5f25.l35779gi0g.png",
+      "AssetFile": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\images\\bundles\\596419e8-a018-4a27-aa67-13440dec5f25.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16942"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kcDp9xbE5gdCoQ7ufutF7R8CZzY2TdZF9eQqv+Zz1lU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 02:35:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l35779gi0g"
+        },
+        {
+          "Name": "label",
+          "Value": "images/bundles/596419e8-a018-4a27-aa67-13440dec5f25.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kcDp9xbE5gdCoQ7ufutF7R8CZzY2TdZF9eQqv+Zz1lU="
+        }
+      ]
+    },
+    {
+      "Route": "images/bundles/596419e8-a018-4a27-aa67-13440dec5f25.png",
+      "AssetFile": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\images\\bundles\\596419e8-a018-4a27-aa67-13440dec5f25.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16942"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kcDp9xbE5gdCoQ7ufutF7R8CZzY2TdZF9eQqv+Zz1lU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 02:35:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kcDp9xbE5gdCoQ7ufutF7R8CZzY2TdZF9eQqv+Zz1lU="
+        }
+      ]
+    },
+    {
+      "Route": "images/bundles/6b01f5a6-f6fc-4687-b9ab-ea13bce73b88.cgk9zycfb6.png",
+      "AssetFile": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\images\\bundles\\6b01f5a6-f6fc-4687-b9ab-ea13bce73b88.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14172"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zBpP/vjEC5dGbfEyZPdXvfj1VBjnvcYOUGW0D+D7VnE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 01:47:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cgk9zycfb6"
+        },
+        {
+          "Name": "label",
+          "Value": "images/bundles/6b01f5a6-f6fc-4687-b9ab-ea13bce73b88.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zBpP/vjEC5dGbfEyZPdXvfj1VBjnvcYOUGW0D+D7VnE="
+        }
+      ]
+    },
+    {
+      "Route": "images/bundles/6b01f5a6-f6fc-4687-b9ab-ea13bce73b88.png",
+      "AssetFile": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\images\\bundles\\6b01f5a6-f6fc-4687-b9ab-ea13bce73b88.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14172"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zBpP/vjEC5dGbfEyZPdXvfj1VBjnvcYOUGW0D+D7VnE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 01:47:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zBpP/vjEC5dGbfEyZPdXvfj1VBjnvcYOUGW0D+D7VnE="
+        }
+      ]
+    },
+    {
+      "Route": "images/bundles/791f645e-a8eb-4aad-959c-8b2ee24e5770.l35779gi0g.png",
+      "AssetFile": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\images\\bundles\\791f645e-a8eb-4aad-959c-8b2ee24e5770.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16942"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kcDp9xbE5gdCoQ7ufutF7R8CZzY2TdZF9eQqv+Zz1lU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 02:37:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l35779gi0g"
+        },
+        {
+          "Name": "label",
+          "Value": "images/bundles/791f645e-a8eb-4aad-959c-8b2ee24e5770.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kcDp9xbE5gdCoQ7ufutF7R8CZzY2TdZF9eQqv+Zz1lU="
+        }
+      ]
+    },
+    {
+      "Route": "images/bundles/791f645e-a8eb-4aad-959c-8b2ee24e5770.png",
+      "AssetFile": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\images\\bundles\\791f645e-a8eb-4aad-959c-8b2ee24e5770.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16942"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kcDp9xbE5gdCoQ7ufutF7R8CZzY2TdZF9eQqv+Zz1lU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 02:37:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kcDp9xbE5gdCoQ7ufutF7R8CZzY2TdZF9eQqv+Zz1lU="
+        }
+      ]
+    },
+    {
+      "Route": "images/bundles/84af052a-6796-4bfe-a817-cd6ae52e3fb2.png",
+      "AssetFile": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\images\\bundles\\84af052a-6796-4bfe-a817-cd6ae52e3fb2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "224114"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/SHgYgIJjCja4a3LUTVgLdODK4C/4S8DUfe8RzfHLZY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 01:18:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/SHgYgIJjCja4a3LUTVgLdODK4C/4S8DUfe8RzfHLZY="
+        }
+      ]
+    },
+    {
+      "Route": "images/bundles/84af052a-6796-4bfe-a817-cd6ae52e3fb2.vln2ymcrno.png",
+      "AssetFile": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\images\\bundles\\84af052a-6796-4bfe-a817-cd6ae52e3fb2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "224114"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/SHgYgIJjCja4a3LUTVgLdODK4C/4S8DUfe8RzfHLZY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 01:18:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vln2ymcrno"
+        },
+        {
+          "Name": "label",
+          "Value": "images/bundles/84af052a-6796-4bfe-a817-cd6ae52e3fb2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/SHgYgIJjCja4a3LUTVgLdODK4C/4S8DUfe8RzfHLZY="
+        }
+      ]
+    },
+    {
+      "Route": "images/bundles/9c4cc55b-6881-42ed-a3d5-a9678c16893e.cgk9zycfb6.png",
+      "AssetFile": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\images\\bundles\\9c4cc55b-6881-42ed-a3d5-a9678c16893e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14172"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zBpP/vjEC5dGbfEyZPdXvfj1VBjnvcYOUGW0D+D7VnE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 01:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cgk9zycfb6"
+        },
+        {
+          "Name": "label",
+          "Value": "images/bundles/9c4cc55b-6881-42ed-a3d5-a9678c16893e.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zBpP/vjEC5dGbfEyZPdXvfj1VBjnvcYOUGW0D+D7VnE="
+        }
+      ]
+    },
+    {
+      "Route": "images/bundles/9c4cc55b-6881-42ed-a3d5-a9678c16893e.png",
+      "AssetFile": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\images\\bundles\\9c4cc55b-6881-42ed-a3d5-a9678c16893e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14172"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zBpP/vjEC5dGbfEyZPdXvfj1VBjnvcYOUGW0D+D7VnE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 01:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zBpP/vjEC5dGbfEyZPdXvfj1VBjnvcYOUGW0D+D7VnE="
+        }
+      ]
+    },
+    {
+      "Route": "images/bundles/b2106712-979f-46ce-9c4e-7260cabeab17.l35779gi0g.png",
+      "AssetFile": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\images\\bundles\\b2106712-979f-46ce-9c4e-7260cabeab17.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16942"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kcDp9xbE5gdCoQ7ufutF7R8CZzY2TdZF9eQqv+Zz1lU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 02:43:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l35779gi0g"
+        },
+        {
+          "Name": "label",
+          "Value": "images/bundles/b2106712-979f-46ce-9c4e-7260cabeab17.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kcDp9xbE5gdCoQ7ufutF7R8CZzY2TdZF9eQqv+Zz1lU="
+        }
+      ]
+    },
+    {
+      "Route": "images/bundles/b2106712-979f-46ce-9c4e-7260cabeab17.png",
+      "AssetFile": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\images\\bundles\\b2106712-979f-46ce-9c4e-7260cabeab17.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16942"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kcDp9xbE5gdCoQ7ufutF7R8CZzY2TdZF9eQqv+Zz1lU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 02:43:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kcDp9xbE5gdCoQ7ufutF7R8CZzY2TdZF9eQqv+Zz1lU="
+        }
+      ]
+    },
+    {
+      "Route": "images/bundles/d711f711-e5fc-422d-987d-bf4b45133729.cgk9zycfb6.png",
+      "AssetFile": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\images\\bundles\\d711f711-e5fc-422d-987d-bf4b45133729.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14172"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zBpP/vjEC5dGbfEyZPdXvfj1VBjnvcYOUGW0D+D7VnE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 01:47:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cgk9zycfb6"
+        },
+        {
+          "Name": "label",
+          "Value": "images/bundles/d711f711-e5fc-422d-987d-bf4b45133729.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zBpP/vjEC5dGbfEyZPdXvfj1VBjnvcYOUGW0D+D7VnE="
+        }
+      ]
+    },
+    {
+      "Route": "images/bundles/d711f711-e5fc-422d-987d-bf4b45133729.png",
+      "AssetFile": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\images\\bundles\\d711f711-e5fc-422d-987d-bf4b45133729.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14172"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zBpP/vjEC5dGbfEyZPdXvfj1VBjnvcYOUGW0D+D7VnE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 01:47:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zBpP/vjEC5dGbfEyZPdXvfj1VBjnvcYOUGW0D+D7VnE="
+        }
+      ]
+    },
+    {
+      "Route": "images/bundles/e7e67ae8-f3cc-48c8-8f00-35d03d3a2899.l35779gi0g.png",
+      "AssetFile": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\images\\bundles\\e7e67ae8-f3cc-48c8-8f00-35d03d3a2899.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16942"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kcDp9xbE5gdCoQ7ufutF7R8CZzY2TdZF9eQqv+Zz1lU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 02:40:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l35779gi0g"
+        },
+        {
+          "Name": "label",
+          "Value": "images/bundles/e7e67ae8-f3cc-48c8-8f00-35d03d3a2899.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kcDp9xbE5gdCoQ7ufutF7R8CZzY2TdZF9eQqv+Zz1lU="
+        }
+      ]
+    },
+    {
+      "Route": "images/bundles/e7e67ae8-f3cc-48c8-8f00-35d03d3a2899.png",
+      "AssetFile": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\images\\bundles\\e7e67ae8-f3cc-48c8-8f00-35d03d3a2899.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16942"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kcDp9xbE5gdCoQ7ufutF7R8CZzY2TdZF9eQqv+Zz1lU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 02:40:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kcDp9xbE5gdCoQ7ufutF7R8CZzY2TdZF9eQqv+Zz1lU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/46867a9e-583d-42ea-9eec-60c9102a2986.jpg",
+      "AssetFile": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\uploads\\46867a9e-583d-42ea-9eec-60c9102a2986.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28678"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pSZqFJBvpX2kFVyZSdJJ1IgRvcACoYymzsPULot52to=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 04:04:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pSZqFJBvpX2kFVyZSdJJ1IgRvcACoYymzsPULot52to="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/46867a9e-583d-42ea-9eec-60c9102a2986.vr7kp7ormj.jpg",
+      "AssetFile": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\uploads\\46867a9e-583d-42ea-9eec-60c9102a2986.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28678"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pSZqFJBvpX2kFVyZSdJJ1IgRvcACoYymzsPULot52to=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 04:04:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vr7kp7ormj"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/46867a9e-583d-42ea-9eec-60c9102a2986.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pSZqFJBvpX2kFVyZSdJJ1IgRvcACoYymzsPULot52to="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/70fd167a-8fd3-491b-9202-41061163ec9f.83mqgzw2ck.jpg",
+      "AssetFile": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\uploads\\70fd167a-8fd3-491b-9202-41061163ec9f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39626"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rBHkjCN6p8j9rJNo6ogLjLpt+cgxn1NetMHEorBlk2o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 03:17:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "83mqgzw2ck"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/70fd167a-8fd3-491b-9202-41061163ec9f.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rBHkjCN6p8j9rJNo6ogLjLpt+cgxn1NetMHEorBlk2o="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/70fd167a-8fd3-491b-9202-41061163ec9f.jpg",
+      "AssetFile": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\uploads\\70fd167a-8fd3-491b-9202-41061163ec9f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39626"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rBHkjCN6p8j9rJNo6ogLjLpt+cgxn1NetMHEorBlk2o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 03:17:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rBHkjCN6p8j9rJNo6ogLjLpt+cgxn1NetMHEorBlk2o="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/95e72f69-932e-4a69-83f7-feca1e474480.kgyzclbkp4.png",
+      "AssetFile": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\uploads\\95e72f69-932e-4a69-83f7-feca1e474480.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "210389"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NEn4SlovDdRXzy6GmhXYFHhWh5W76fJAASVYFfBw404=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 07:06:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kgyzclbkp4"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/95e72f69-932e-4a69-83f7-feca1e474480.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NEn4SlovDdRXzy6GmhXYFHhWh5W76fJAASVYFfBw404="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/95e72f69-932e-4a69-83f7-feca1e474480.png",
+      "AssetFile": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\uploads\\95e72f69-932e-4a69-83f7-feca1e474480.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "210389"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NEn4SlovDdRXzy6GmhXYFHhWh5W76fJAASVYFfBw404=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 07:06:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NEn4SlovDdRXzy6GmhXYFHhWh5W76fJAASVYFfBw404="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/e104cb38-d741-4813-9857-37234259b555.jpg",
+      "AssetFile": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\uploads\\e104cb38-d741-4813-9857-37234259b555.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28678"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pSZqFJBvpX2kFVyZSdJJ1IgRvcACoYymzsPULot52to=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 12:08:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pSZqFJBvpX2kFVyZSdJJ1IgRvcACoYymzsPULot52to="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/e104cb38-d741-4813-9857-37234259b555.vr7kp7ormj.jpg",
+      "AssetFile": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\uploads\\e104cb38-d741-4813-9857-37234259b555.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28678"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pSZqFJBvpX2kFVyZSdJJ1IgRvcACoYymzsPULot52to=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 12:08:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vr7kp7ormj"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/e104cb38-d741-4813-9857-37234259b555.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pSZqFJBvpX2kFVyZSdJJ1IgRvcACoYymzsPULot52to="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/f87b292b-39b5-4872-a960-d1a826e4ad1a.png",
+      "AssetFile": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\uploads\\f87b292b-39b5-4872-a960-d1a826e4ad1a.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2138331"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Oym7QTC+m5qq5JrEyPpsn3FkruPgJQCBNlRwFNho1MQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 13:46:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Oym7QTC+m5qq5JrEyPpsn3FkruPgJQCBNlRwFNho1MQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/f87b292b-39b5-4872-a960-d1a826e4ad1a.xpys885fle.png",
+      "AssetFile": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\uploads\\f87b292b-39b5-4872-a960-d1a826e4ad1a.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2138331"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Oym7QTC+m5qq5JrEyPpsn3FkruPgJQCBNlRwFNho1MQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 13:46:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xpys885fle"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/f87b292b-39b5-4872-a960-d1a826e4ad1a.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Oym7QTC+m5qq5JrEyPpsn3FkruPgJQCBNlRwFNho1MQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/fed3df55-b301-4dac-a07a-77536b7888c9.bak26teq5r.jpg",
+      "AssetFile": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\uploads\\fed3df55-b301-4dac-a07a-77536b7888c9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "201190"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M43GGxXWIXhVDnqLU1WVAv6cnbRyfz7BSNZajzfqTgg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 07:07:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bak26teq5r"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/fed3df55-b301-4dac-a07a-77536b7888c9.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M43GGxXWIXhVDnqLU1WVAv6cnbRyfz7BSNZajzfqTgg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/fed3df55-b301-4dac-a07a-77536b7888c9.jpg",
+      "AssetFile": "C:\\UT SCHOOL_DINO\\Magang DAD\\PROJECT ECOMMERCE\\Backend\\api\\wwwroot\\uploads\\fed3df55-b301-4dac-a07a-77536b7888c9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "201190"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M43GGxXWIXhVDnqLU1WVAv6cnbRyfz7BSNZajzfqTgg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 07:07:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-M43GGxXWIXhVDnqLU1WVAv6cnbRyfz7BSNZajzfqTgg="
+        }
+      ]
+    }
+  ]
+}
